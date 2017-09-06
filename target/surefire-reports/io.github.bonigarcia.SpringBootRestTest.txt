@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: io.github.bonigarcia.SpringBootRestTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.678 sec - in io.github.bonigarcia.SpringBootRestTest
